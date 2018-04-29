@@ -1,0 +1,4 @@
+INFO    2017-12-13 11:53:22,001 [main] reporting.supervisor.ReportingSupervisor  - Starting Reporting Supervisor
+INFO    2017-12-13 11:53:23,887 [main] reporting.supervisor.ConnectionProvider  - Database Connected: oracle.jdbc.driver.T4CConnection@e720b71
+INFO    2017-12-13 11:53:23,971 [main] reporting.supervisor.ReportingSupervisor  - Direct Report Generation Mode.
+INFO    2017-12-13 12:16:25,030 [main] reporting.supervisor.ReportingSupervisor  - Starting Reporting Supervisor

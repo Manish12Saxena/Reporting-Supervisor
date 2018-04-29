@@ -1,0 +1,10 @@
+reporting\supervisor\PropertiesData.class
+model\ReportModel.class
+reporting\supervisor\ReportingSupervisor$1.class
+reporting\supervisor\ConnectionProvider.class
+model\EmpModel.class
+reporting\supervisor\MakeReports.class
+model\Constants.class
+reporting\supervisor\ReportingSupervisor.class
+reporting\supervisor\ConnectionProvider$ConnectionProviderHolder.class
+reporting\supervisor\Call.class
